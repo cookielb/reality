@@ -1,4 +1,7 @@
 # Xray REALITY 一键脚本
+```bash
+bash <(curl -Ls https://cookielb.github.io/reality/install.sh)
+```
 🚀 **一个AI生成的 Xray 安装脚本。**
 
 本脚本基于 Xray-core，VLESS-TCP-REALITY (without being stolen) 回落机制与路由白名单过滤，彻底杜绝回落流量偷跑。
